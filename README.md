@@ -1,3 +1,4 @@
+```mermaid
 flowchart LR
     A[开始]
     B[选择宏环大小]
